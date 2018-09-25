@@ -1,1 +1,2 @@
-# fnkc_prog_1_2
+# Functional Programming RTU repository
+## Artjoms Ščipanovs
