@@ -1,2 +1,2 @@
 # Functional Programming RTU repository
-## Artjoms Ščipanovs
+## Artjoms Ščipanovs 161RDB258
