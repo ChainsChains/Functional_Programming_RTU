@@ -14,4 +14,5 @@ object NewtonsMethodApp extends App {
     def sqrt(x: Double) = sqrtIter(x, 1)
     
     println(sqrt(16))
+    
 }
