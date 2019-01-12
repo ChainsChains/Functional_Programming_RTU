@@ -8,3 +8,9 @@ lab1_1/.classpath
 lab2/.classpath
 lab2/.gitignore
 lab2/.project
+scala_lab_1/.gitignore
+lab1_2/.gitignore
+scala_lab_1/.project
+scala_lab_1/.cache-main
+scala_lab_1/.classpath
+scala_lab_1/.settings/org.eclipse.jdt.core.prefs
